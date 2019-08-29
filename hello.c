@@ -1,6 +1,7 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Gabe Lyons
+ * Collaborated with:
+ * Date: 2019/08/29
  *
  * A simple hello world program in C
  *
